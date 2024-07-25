@@ -12,6 +12,8 @@
 <a href="https://twitter.com/paundrapujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paundrapujo" height="30" width="40" /></a>
 <a href="https://instagram.com/paundra.pujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paundra.pujo" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/paundrapujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="paundrapujo" height="30" width="40" /></a>
+  <a href="https://cyberdefenders.org/p/mintcocs#/overview" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-CyberDefenders-335EEA?style=flat&logo=cyberdefenders&logoColor=white"/>
+</a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +29,5 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a> 
-<a href="https://cyberdefenders.org/p/mintcocs#/overview" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-CyberDefenders-335EEA?style=flat&logo=cyberdefenders&logoColor=white"/>
-</a>  
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paundrap&show_icons=true&locale=en&layout=compact" alt="paundrap" /></p>

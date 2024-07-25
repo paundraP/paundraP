@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paundrap&label=Profile%20views&color=e32400&style=plastic" alt="paundrap" /> </p>
 
-- 🌱 I’m currently learning **Back-end and iOS dev**
+- 🌱 I’m currently learning **Back-end and Cyber Security**
 
 - 📫 How to reach me **paundrapujodarmawan@gmail.com**
 

@@ -30,4 +30,4 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a> 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paundrap&show_icons=true&locale=en&layout=compact" alt="paundrap" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paundrap&layout=donut-vertical)](https://github.com/paundrap/github-readme-stats)

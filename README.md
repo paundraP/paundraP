@@ -30,4 +30,4 @@
 </a> 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paundrap&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paundrap&langs_count=8)

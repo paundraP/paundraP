@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paundra Pujo Darmawan</h1>
-<h5 align="center">I’m an Information Technology student diving into different areas of digital tech. Right now, I’m focusing on back-end development and iOS development, but I also enjoy competitive programming on Codeforces and taking part in Capture the Flag challenges. I’m always open to collaborations and excited to contribute to new projects. Let’s connect and explore the tech world together!</h5>
+<h5 align="center">I’m an Information Technology student diving into different areas of digital tech. Right now, I’m focusing on back-end development and cyber security, frequently playing Capture the Flag with my uni team. I’m always open to collaborations and excited to contribute to new projects. Let’s connect and explore the tech world together!</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=paundrap&label=Profile%20views&color=e32400&style=plastic" alt="paundrap" /> </p>
 

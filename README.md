@@ -33,7 +33,7 @@
 
 ---
 
-### 🧠 Languages & Tools
+### 🧠 Languages
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
@@ -48,3 +48,8 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paundrap&show_icons=true&theme=default&hide_title=true&hide=stars" alt="GitHub Stats" />
+</p>

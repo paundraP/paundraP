@@ -1,29 +1,48 @@
-<h1 align="center">Hi 👋, I'm Paundra Pujo Darmawan</h1>
-<h5 align="center">I’m an Information Technology student diving into different areas of digital tech. Right now, I’m focusing on back-end development and cyber security, frequently playing Capture the Flag with my uni team. I’m always open to collaborations and excited to contribute to new projects. Let’s connect and explore the tech world together!</h5>
+<h1 align="center">Hey 👋 I'm Paundra Pujo Darmawan</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=paundrap&label=Profile%20views&color=e32400&style=plastic" alt="paundrap" /> </p>
-
-- 🌱 I’m currently learning **Back-end and Cyber Security**
-- 📫 How to reach me **paundrapujodarmawan@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/paundrapujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paundrapujo" height="30" width="40" /></a>
-<a href="https://instagram.com/paundra.pujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paundra.pujo" height="30" width="40" /></a>
+  🚀 Aspiring Back-End Developer & Cyber Security Enthusiast<br>
+  🎯 Capture the Flag player | Team player | Lifelong learner<br>
+  💬 Always open for collaborations and new ideas!
 </p>
 
-<h3 align="center">Languages</h3>
-<p align="center"> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" slt="rust" width="40" height="40" />
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" slt="typescript" width="40" height="40" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=paundrap&label=Profile%20views&color=ff5733&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently diving into **Back-End Development** and **Cyber Security**
+- 🧩 Actively competing in **CTF challenges** with my university team
+- 📬 Reach me at: **paundrapujodarmawan@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/paundrapujo" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</a> 
+  <a href="https://instagram.com/paundra.pujo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paundrap&langs_count=5)
+---
+
+### 🧠 Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" />
+</p>
+
+---
+

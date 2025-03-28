@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
   <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/FFFFFF/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png" width="40" height="40" alt="Rust" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="40" height="40" alt="C" />
 </p>
 
 ---

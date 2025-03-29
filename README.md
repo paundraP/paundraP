@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Aspiring Back-End Developer & Cyber Security Enthusiast<br>
-  🎯 Capture the Flag player | Team player | Lifelong learner<br>
+  🎯 Sometimes Capturing the Flag | HCS member | Lifelong learner<br>
   💬 Always open for collaborations and new ideas!
 </p>
 

@@ -52,7 +52,11 @@
 ---
 
 ### 📊 GitHub Stats
+<div align="center">
+  
+  ![paundraP's Stats](https://github-readme-stats.vercel.app/api?username=paundraP&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paundrap&show_icons=true&theme=default&hide_title=true&hide=stars" alt="GitHub Stats" />
-</p>
+  ![paundraP's Streak](https://github-readme-streak-stats.herokuapp.com/?user=paundraP&theme=tokyonight&hide_border=false)
+
+  ![paundraP's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paundraP&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+</div>

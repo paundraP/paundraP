@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Paundra Pujo Darmawan</h1>
 
 <p align="center">
-  🚀 Aspiring Back-End Developer & Cyber Security Enthusiast<br>
+  🚀 Cyber Security Enthusiast<br>
   🎯 Sometimes Capturing the Flag | HCS member | Lifelong learner<br>
   💬 Always open for collaborations and new ideas!
 </p>
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently diving into **Back-End Development** and **Cyber Security**
+- 🔭 I’m currently diving into **Cyber Security**
 - 🧩 Actively competing in **CTF challenges** with my university team
 - 📬 Reach me at: **paundrapujodarmawan@gmail.com**
 
